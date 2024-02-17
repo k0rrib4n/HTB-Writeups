@@ -623,3 +623,4 @@ The Java OpenWire protocol marshaller is vulnerable to Remote Code Execution. Th
 - [CVE-2023-46604](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-46604)
 - [Exploit](https://github.com/evkl1d/CVE-2023-46604)
 - [Broker HTB](https://app.hackthebox.com/machines/Broker)
+- [Video Walkthrough (ES)](https://www.youtube.com/watch?v=9frjBYjoZSY)
