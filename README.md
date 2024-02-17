@@ -1,4 +1,4 @@
-# HTB Repository by k0rriban
+# HTB Repository by k0rrib4n
 
 ## Profile
 
@@ -45,3 +45,4 @@ This repository contains my personal writeups for www.hackthebox.com retired mac
 |        [Buff](https://app.hackthebox.com/machines/Buff)        | 20-06-2022 | Windows |      8/10       |    Very-Easy    |       Easy        |   Yes   |
 |     [Admirer](https://app.hackthebox.com/machines/Admirer)     | 28-06-2022 |  Linux  |      7/10       |   Easy-Medium   |       Easy        |   Yes   |
 |      [Broker](https://app.hackthebox.com/machines/Broker)      | 02-02-2024 |  Linux  |      6/10       |      Easy       |       Easy        |   Yes   |
+|      [Keeper](https://app.hackthebox.com/machines/Keeper)      | 16-02-2024 |  Linux  |      7/10       |    Very-Easy    |       Easy        |   Yes   |
