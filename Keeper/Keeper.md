@@ -429,3 +429,4 @@ In KeePass 2.x before 2.54, it is possible to recover the cleartext master passw
 - [RequestTracker defuault credentials](https://forum.bestpractical.com/t/default-user-and-password/14992)
 - [CVE-2023-32784](https://nvd.nist.gov/vuln/detail/CVE-2023-32784)
 - [keepass-dump-masterkey (CVE-2023-32784 exploit)](https://github.com/matro7sh/keepass-dump-masterkey)
+- [Video Walkthrough (ES)](https://youtu.be/nm03BlVH8Qk)
